@@ -7,8 +7,10 @@
 <h2>〽️ Deploy Me </h2> 
   
 <details><summary>📌 Deploy to Heroku </summary>
+
+https://dashboard.heroku.com/new-app?template=https://github.com/rahulzxxm/autp
+
   
-https://dashboard.heroku.com/new-app?template=https://github.com/Auto
 </details>
 
 <details><summary>📌 Deploy to Railway </summary>
