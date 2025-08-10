@@ -8,7 +8,7 @@
   
 <details><summary>📌 Deploy to Heroku </summary>
   
-https://dashboard.heroku.com/new-app?template=https://github.com/Auto-Approve-bot
+https://dashboard.heroku.com/new-app?template=https://github.com/Auto
 </details>
 
 <details><summary>📌 Deploy to Railway </summary>
