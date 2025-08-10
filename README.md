@@ -8,7 +8,7 @@
   
 <details><summary>📌 Deploy to Heroku </summary>
   
-<a href="https://heroku.com/deploy?template=https://github.com/ImDenuwan/Auto-Approve-bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"></p></a>
+https://dashboard.heroku.com/new-app?template=https://github.com/Auto-Approve-bot
 </details>
 
 <details><summary>📌 Deploy to Railway </summary>
